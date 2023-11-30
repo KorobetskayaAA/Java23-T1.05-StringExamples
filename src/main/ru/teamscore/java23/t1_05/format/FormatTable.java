@@ -1,10 +1,6 @@
 package ru.teamscore.java23.t1_05.format;
 
-import java.text.DateFormat;
-import java.text.FieldPosition;
-import java.text.ParsePosition;
 import java.time.format.DateTimeFormatter;
-import java.util.Date;
 
 public class FormatTable {
     public FormatTable(Item[] items) {
